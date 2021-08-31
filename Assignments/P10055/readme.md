@@ -19,5 +19,5 @@ This program takes in 2 numbers, separated by a space, per line until the end of
 
 |   #   | File                       | Description           |
 | :---: | -------------------------- | --------------------- |
-|   1   | [P10055.cpp](./P10055.cpp) | main file.        |
+|   1   | [P10055.cpp](./P10055.cpp) | main file.            |
 |   2   | [10055.pdf](./10055.pdf)   | question pdf          |
