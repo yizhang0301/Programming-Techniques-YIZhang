@@ -12,9 +12,18 @@ using namespace std;
 int main() {
 	int B = 0, A = 0;
 	while (cin >> A >> B) {
-		//b always bigger than a
-		int num = B - A;
-		cout << num << endl;
+	long long num = B - A;		
+		if (A > B)
+        {
+            num = A - B;
+            cout << num << endl;
+        }
+        else
+        {
+            num = B - A;
+            cout << num << endl;
+        }
+	   
 	}
 	return 0;
 }
