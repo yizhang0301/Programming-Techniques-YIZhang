@@ -10,9 +10,8 @@
 using namespace std;
 
 int main() {
-	int B = 0, A = 0;
-	while (cin >> A >> B) {
-	long long num = B - A;		
+	long long int B = 0, A = 0 , num = 0;  
+	while (cin >> A >> B) {	
 		if (A > B)
         {
             num = A - B;
