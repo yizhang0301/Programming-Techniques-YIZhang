@@ -16,13 +16,17 @@ Output will consist of a series of lines, one for each scenario in the input. Ea
 ## Sample Input
 
 19 20 0
+
 30
+
 25 35 0
+
 0 0 0
 
 ## Sample Output
 
 00:00:40
+
 00:05:00
 
 ### Files
