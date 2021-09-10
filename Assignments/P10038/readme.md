@@ -11,9 +11,11 @@ Each line of input contains an integer n ≤ 3000 followed by n integers represe
 For each line of input, generate a line of output saying ‘Jolly’ or ‘Not jolly’.
 ## Sample Input
 4 1 4 2 3
+
 5 1 4 2 -1 6
 ## ample Output
 Jolly
+
 Not jolly
 
 ### Files
