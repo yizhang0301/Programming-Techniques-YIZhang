@@ -37,7 +37,7 @@ int main()
 			
 		}
 		
-        cout << pnum << endl;
+        printf("%.2f\n", pnum);
 	}
 	return 0;
 }
