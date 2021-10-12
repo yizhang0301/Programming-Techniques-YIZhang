@@ -15,6 +15,6 @@ the puzzle with n disks is 2n − 1.
 
 |   #   | File                       | Description           |
 | :---: | -------------------------- | --------------------- |
-|   1   | [10017.cpp](./P10017.cpp) | main file.            |
+|   1   | [10017.cpp](./10017.cpp) | main file.            |
 |   2   | [10017.pdf](./110017.pdf)   | question pdf          |
 |   3   | [banner.txt](./banner.txt) | banner page           |

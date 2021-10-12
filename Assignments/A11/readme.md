@@ -28,6 +28,6 @@ The output is the sum of the maximal sub-rectangle.
 
 |   #   | File                       | Description           |
 | :---: | -------------------------- | --------------------- |
-|   1   | [108.cpp](./P108.cpp) | main file.            |
+|   1   | [108.cpp](./108.cpp) | main file.            |
 |   2   | [108.pdf](./108.pdf)   | question pdf          |
 |   3   | [banner.txt](./banner.txt) | banner page           |
