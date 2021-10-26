@@ -11,5 +11,6 @@
 |   9   | [P10017](https://github.com/yizhang0301/4883-Programming_Techniques/tree/main/Assignments/A09) | UVA problem 10017 |
 |   10   | [P900/P920](https://github.com/yizhang0301/4883-Programming_Techniques/tree/main/Assignments/A10) | UVA problem 900&920 |
 |   11  | [P108](https://github.com/yizhang0301/4883-Programming_Techniques/tree/main/Assignments/A11) | UVA problem 108 |
-
+|   12  | bye week                                                                                     |    null     |
+|   13  | [P1112](https://github.com/yizhang0301/4883-Programming_Techniques/tree/main/Assignments/A13) | UVA problem 1112 |
 
