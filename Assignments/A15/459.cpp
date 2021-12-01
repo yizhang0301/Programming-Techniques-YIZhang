@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+//YI ZHANG
+//CMPS 4883
+//2021/11/30
+>>>>>>> c39d8a9e2fdbbc8a18155dcf65f63425cc6cf99a
 #include<iostream>
 #include<cstdio>
 #include<cstring>
