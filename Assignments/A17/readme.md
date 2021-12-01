@@ -32,6 +32,6 @@ pair I, T (I represents the integer, T represents the tree) the output is the st
 root-to-leaf path in T whose sum is I and ‘no’ if there is no path in T whose sum is I.
 |   #   | File                       | Description           |
 | :---: | -------------------------- | --------------------- |
-|   1   | [112.cpp](./108.cpp) | main file.            |
-|   2   | [112.pdf](./108.pdf)   | question pdf          |
+|   1   | [112.cpp](./112.cpp) | main file.            |
+|   2   | [112.pdf](./112.pdf)   | question pdf          |
 |   3   | [banner.txt](./banner.txt) | banner page           |
