@@ -15,5 +15,7 @@
 |   13  | [P1112](https://github.com/yizhang0301/4883-Programming_Techniques/tree/main/Assignments/A13) | UVA problem 1112 |
 |   14  | [A14](https://github.com/yizhang0301/4883-Programming_Techniques/tree/main/Assignments/A14) | UVA problem|
 |   15  | [pre](https://github.com/yizhang0301/4883-Programming_Techniques/tree/main/Assignments/A15) | UVA problem Presentation  459|
+|   16  | | UVA problem|
+|   17  | [p112](https://github.com/yizhang0301/4883-Programming_Techniques/tree/main/Assignments/A17) | UVA problem 112|
 
 
