@@ -23,8 +23,8 @@ size 10  : {3, 17, 5, 41, 4, 1, 2, 9, 7, 10}
 
 
 
-|   #   |  |
-| :---: | ----------- | ---------------------- |
+|   #   | file |
+| :---: |---------------------- |
 |1|[reandme](https://github.com/yizhang0301/4883-Programming-Techniques-YIZhang/blob/main/Assignments/A16/readme.md)|
 |2|[qucik sort](https://github.com/yizhang0301/4883-Programming-Techniques-YIZhang/blob/main/Assignments/A16/qiucksort.cpp)|
 |3|[count sort](https://github.com/yizhang0301/4883-Programming-Techniques-YIZhang/blob/main/Assignments/A16/countsort.cpp)|
